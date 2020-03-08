@@ -16,6 +16,7 @@ int main()
 		a[pat[i]-'a']=lp-i-1;
 	}
 	int val,k;
+	int a,b;
   for(i=lp-1;i<lt;i++)
   {
   	val=a[text[i]-'a'];

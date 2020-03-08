@@ -17,6 +17,7 @@ int main()
 	}
 	int val,k;
 	int a,b;
+	cout<<"Hello"<<endl;
   for(i=lp-1;i<lt;i++)
   {
   	val=a[text[i]-'a'];
